@@ -1,4 +1,5 @@
 export const CountryCodeList = [
+  'US',
   'AF',
   'AL',
   'DZ',
@@ -232,7 +233,6 @@ export const CountryCodeList = [
   'UA',
   'AE',
   'GB',
-  'US',
   'UM',
   'VI',
   'UY',
